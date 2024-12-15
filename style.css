@@ -1,0 +1,33 @@
+
+body {
+  font-family: "Mause Memoirs", sans-serif;
+  color: white;
+  background-color: black;
+}
+
+.zdj {
+    width: fit-content;
+    height: auto;
+    border: solid, 5px, white;
+    margin: 30px auto;
+
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+ 
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.mouse-memoirs-regular {
+    font-family: "Mouse Memoirs", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
